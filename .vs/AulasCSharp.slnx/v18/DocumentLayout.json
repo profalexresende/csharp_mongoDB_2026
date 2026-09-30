@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Prof. Alex\\FIAP\\AulasCSharp\\AulasCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D12C0E89-CE04-4D57-95E1-918E4A08C93A}|AulasCSharp\\AulasCSharp.csproj|c:\\prof. alex\\fiap\\aulascsharp\\aulascsharp\\aulascsharp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D12C0E89-CE04-4D57-95E1-918E4A08C93A}|AulasCSharp\\AulasCSharp.csproj|solutionrelative:aulascsharp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D12C0E89-CE04-4D57-95E1-918E4A08C93A}|AulasCSharp\\AulasCSharp.csproj|c:\\prof. alex\\fiap\\aulascsharp\\aulascsharp\\aulascsharp\\infraestrutura\\mongoprodutorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D12C0E89-CE04-4D57-95E1-918E4A08C93A}|AulasCSharp\\AulasCSharp.csproj|solutionrelative:aulascsharp\\infraestrutura\\mongoprodutorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D12C0E89-CE04-4D57-95E1-918E4A08C93A}|AulasCSharp\\AulasCSharp.csproj|c:\\prof. alex\\fiap\\aulascsharp\\aulascsharp\\aulascsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D12C0E89-CE04-4D57-95E1-918E4A08C93A}|AulasCSharp\\AulasCSharp.csproj|solutionrelative:aulascsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D12C0E89-CE04-4D57-95E1-918E4A08C93A}|AulasCSharp\\AulasCSharp.csproj|c:\\prof. alex\\fiap\\aulascsharp\\aulascsharp\\aulascsharp\\dominio\\iprodutorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D12C0E89-CE04-4D57-95E1-918E4A08C93A}|AulasCSharp\\AulasCSharp.csproj|solutionrelative:aulascsharp\\dominio\\iprodutorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D12C0E89-CE04-4D57-95E1-918E4A08C93A}|AulasCSharp\\AulasCSharp.csproj|c:\\prof. alex\\fiap\\aulascsharp\\aulascsharp\\aulascsharp\\dominio\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D12C0E89-CE04-4D57-95E1-918E4A08C93A}|AulasCSharp\\AulasCSharp.csproj|solutionrelative:aulascsharp\\dominio\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Prof. Alex\\FIAP\\AulasCSharp\\AulasCSharp\\AulasCSharp\\Program.cs",
+              "RelativeDocumentMoniker": "AulasCSharp\\Program.cs",
+              "ToolTip": "C:\\Prof. Alex\\FIAP\\AulasCSharp\\AulasCSharp\\AulasCSharp\\Program.cs",
+              "RelativeToolTip": "AulasCSharp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T23:03:44.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MongoProdutoRepositorio.cs",
+              "DocumentMoniker": "C:\\Prof. Alex\\FIAP\\AulasCSharp\\AulasCSharp\\AulasCSharp\\Infraestrutura\\MongoProdutoRepositorio.cs",
+              "RelativeDocumentMoniker": "AulasCSharp\\Infraestrutura\\MongoProdutoRepositorio.cs",
+              "ToolTip": "C:\\Prof. Alex\\FIAP\\AulasCSharp\\AulasCSharp\\AulasCSharp\\Infraestrutura\\MongoProdutoRepositorio.cs",
+              "RelativeToolTip": "AulasCSharp\\Infraestrutura\\MongoProdutoRepositorio.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T23:03:34.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProdutoRepositorio.cs",
+              "DocumentMoniker": "C:\\Prof. Alex\\FIAP\\AulasCSharp\\AulasCSharp\\AulasCSharp\\Dominio\\IProdutoRepositorio.cs",
+              "RelativeDocumentMoniker": "AulasCSharp\\Dominio\\IProdutoRepositorio.cs",
+              "ToolTip": "C:\\Prof. Alex\\FIAP\\AulasCSharp\\AulasCSharp\\AulasCSharp\\Dominio\\IProdutoRepositorio.cs",
+              "RelativeToolTip": "AulasCSharp\\Dominio\\IProdutoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T23:03:25.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Prof. Alex\\FIAP\\AulasCSharp\\AulasCSharp\\AulasCSharp\\Dominio\\Produto.cs",
+              "RelativeDocumentMoniker": "AulasCSharp\\Dominio\\Produto.cs",
+              "ToolTip": "C:\\Prof. Alex\\FIAP\\AulasCSharp\\AulasCSharp\\AulasCSharp\\Dominio\\Produto.cs",
+              "RelativeToolTip": "AulasCSharp\\Dominio\\Produto.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T23:03:11.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Prof. Alex\\FIAP\\AulasCSharp\\AulasCSharp\\AulasCSharp\\appsettings.json",
+              "RelativeDocumentMoniker": "AulasCSharp\\appsettings.json",
+              "ToolTip": "C:\\Prof. Alex\\FIAP\\AulasCSharp\\AulasCSharp\\AulasCSharp\\appsettings.json",
+              "RelativeToolTip": "AulasCSharp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-29T23:02:59.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

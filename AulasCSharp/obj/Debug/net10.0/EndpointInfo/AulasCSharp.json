@@ -1,0 +1,91 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "AulasCSharp",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/produtos": {
+      "get": {
+        "tags": [
+          "AulasCSharp"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "AulasCSharp"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CriarProdutoRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/produtos/{id}": {
+      "get": {
+        "tags": [
+          "AulasCSharp"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "CriarProdutoRequest": {
+        "type": "object",
+        "properties": {
+          "nome": {
+            "type": "string",
+            "nullable": true
+          },
+          "preco": {
+            "type": "number",
+            "format": "double"
+          },
+          "estoque": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "tags": [
+    {
+      "name": "AulasCSharp"
+    }
+  ]
+}

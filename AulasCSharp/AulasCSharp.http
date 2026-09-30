@@ -1,0 +1,6 @@
+@AulasCSharp_HostAddress = http://localhost:5083
+
+GET {{AulasCSharp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
